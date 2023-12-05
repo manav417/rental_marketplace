@@ -1,0 +1,1 @@
+import{U as t,e}from"./index.d6eaf57d.js";const s=t();var a={async listHostProperties(){return e.get("https://conifer2.tae.tax/properties/search",{headers:{Authorization:`Bearer ${s.accessToken}`}})},async getHostProperty(r){return e.get(`https://conifer2.tae.tax/properties/${r}`)}};export{a as H};

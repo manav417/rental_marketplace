@@ -1,0 +1,1 @@
+import{_ as e}from"./OwnerRezIntegration.437aebe0.js";import{d as t,o as a,c as o,a as n,F as s,b as r}from"./index.d6eaf57d.js";const _=r("h2",{class:"text-1xl font-bold mb-6"},"Integrations",-1),c={data(){return{}},methods:{}},p=t({...c,__name:"SelectIntegration",setup(m){return(l,d)=>(a(),o(s,null,[_,n(e)],64))}});export{p as default};

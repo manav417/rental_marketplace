@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.datepicker-cell.focused {
+    background-color: #F3A24D !important;
+}
+
+.datepicker-cell.range-start {
+    background-color: #F3A24D !important;
+}
+
+.datepicker-cell.range {
+    background-color: #F6EEE1 !important;
+}
+
+.mapdiv {
+    border-radius: 0.75rem !important;
+}
